@@ -2,10 +2,10 @@
 
 Hello Visitor🙏,
 
-**Have Glimpse Over an small project over Blinkit data**
+**Have Glimpse Over an small data analysis project over Blinkit data**
 
 An Interactive Blinkit Dashboard Using An Streamlit framework Which Gives you Insights of the data.
-with the help of Streamlit widgets like filters(As Of now I've Used Only An filter soo.)
+with the help of Streamlit widgets like filters(As of now i've used only the filters in dashboard.)
 
 To Run This Code please Install Below python packages
 1. Streamlit
