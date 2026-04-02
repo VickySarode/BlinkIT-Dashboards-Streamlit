@@ -81,7 +81,7 @@ st.sidebar.markdown(
 df = pd.read_csv("blinkit_data.csv")
 
 # Reading DataFrame
-st.dataframe(df)
+#st.dataframe(df)
 
 # Cleaning Data
 df["Item Fat Content"] = df["Item Fat Content"].replace({
