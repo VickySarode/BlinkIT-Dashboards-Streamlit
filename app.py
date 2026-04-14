@@ -248,13 +248,6 @@ with col2:
     plt.tight_layout()
     st.pyplot(fig)
 
-oultet_fat = filtered_df.groupby(
-    ['Outlet Location Type',
-     'Item Fat Content'])['Sales'].sum().unstack()
-
-x = np.arange(len(oultet_fat.index))
-width = 0.35
-
 col1, col2 = st.columns(2)
 with col1:
 
